@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Harishchandra Bansode
 
 💻 Web Developer | PHP & MySQL | Backend Enthusiast
@@ -13,7 +14,10 @@ One of my highlighted projects is my **Online Library Management System**.
 
 A complete **Library Management System** built using **PHP and MySQL** that automates library operations such as book issuing, returns, user management, and record keeping.
 
-This system replaces manual registers with a **secure, fast, and Online solution** for libraries.
+This system replaces manual registers with a **secure, fast, and online solution** for libraries.
+
+🌐 **Live Demo:**
+👉 [http://onlinelibrarysysytem.42web.io/](http://onlinelibrarysysytem.42web.io/)
 
 ---
 
@@ -77,7 +81,7 @@ This project was designed to:
 
 * Reduce manual paperwork
 * Improve accuracy in book tracking
-* Provide a **user-friendly Online solution**
+* Provide a **user-friendly online solution**
 * Simulate a **real-world library system**
 
 It’s suitable for:
@@ -102,3 +106,5 @@ It’s suitable for:
 If you're interested in **PHP, backend development, or web applications**, feel free to connect with me on LinkedIn or explore my repositories 🚀
 
 ---
+
+If you want, I can also help you add **GitHub badges, screenshots, or a demo login section** to make this look even more impressive 👨‍💻🔥
