@@ -3,17 +3,17 @@
 💻 Web Developer | PHP & MySQL | Backend Enthusiast
 
 Welcome to my GitHub! I enjoy building **real-world web applications** that solve practical problems.
-One of my highlighted projects is my **Digital Library Management System**.
+One of my highlighted projects is my **Online Library Management System**.
 
 ---
 
-## 📚 Digital Library Management System
+## 📚 Online Library Management System
 
-*A Web-Based Digital Management System*
+*A Web-Based Online Management System*
 
 A complete **Library Management System** built using **PHP and MySQL** that automates library operations such as book issuing, returns, user management, and record keeping.
 
-This system replaces manual registers with a **secure, fast, and digital solution** for libraries.
+This system replaces manual registers with a **secure, fast, and Online solution** for libraries.
 
 ---
 
@@ -77,7 +77,7 @@ This project was designed to:
 
 * Reduce manual paperwork
 * Improve accuracy in book tracking
-* Provide a **user-friendly digital solution**
+* Provide a **user-friendly Online solution**
 * Simulate a **real-world library system**
 
 It’s suitable for:
